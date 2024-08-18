@@ -1,5 +1,3 @@
-/* Danilo Barbosa 2211700 3WA */
-/* João Henrique Dib  2210993 3WA */
 #include "cria_func.h"
 #include <stdio.h>
 #include <stdlib.h>
